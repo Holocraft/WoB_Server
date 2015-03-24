@@ -1,0 +1,6 @@
+.DS_Store
+build/
+conf/
+nbproject/private
+sql/wob_db.sql
+webserviceLogin.properties
